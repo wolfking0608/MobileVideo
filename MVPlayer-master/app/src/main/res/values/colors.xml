@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31c3ff</color>
+    <color name="colorPrimaryDark">#54b3cc</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#dedcdc</color>
+    <color name="home_item_bg">#7f000000</color>
+    <color name="green">#ff1ec399</color>
+    <color name="transparent_layer">#7f000000</color>
+    <color name="colorMusicProgress">#ffcd2e</color>
+
+</resources>

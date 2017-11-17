@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="splash" type="id"/>
+    <item name="settings" type="id"/>
+    <item name="tab_home" type="id"/>
+    <item name="tab_mv" type="id"/>
+    <item name="tab_vlist" type="id"/>
+    <item name="tab_yue_dan" type="id"/>
+    <item name="fragment_container" type="id"/>
+    <item name="bottom_bar" type="id"/>
+    <item name="recycler_view" type="id"/>
+    <item name="video_type" type="id"/>
+    <item name="description" type="id"/>
+    <item name="swipe_refresh" type="id"/>
+    <item name="video" type="id"/>
+    <item name="default_icon" type="id"/>
+    <item name="nickname" type="id"/>
+    <item name="mv_count" type="id"/>
+    <item name="avatar" type="id"/>
+    <item name="item_img" type="id"/>
+    <item name="tab_layout" type="id"/>
+    <item name="view_pager" type="id"/>
+    <item name="artist" type="id"/>
+    <item name="comment" type="id"/>
+    <item name="relative" type="id"/>
+    <item name="radio_group" type="id"/>
+    <item name="video_player" type="id"/>
+    <item name="list_view" type="id"/>
+    <item name="audio_default" type="id"/>
+    <item name="size" type="id"/>
+    <item name="seek_bar" type="id"/>
+    <item name="time" type="id"/>
+    <item name="back" type="id"/>
+    <item name="audio_list" type="id"/>
+    <item name="lyric" type="id"/>
+</resources>

@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android{
+    compileSdkVersion 25
+    buildToolsVersion "25.0.1"
+    defaultConfig{
+        applicationId "com.itheima.mvplayer"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes{
+        release{
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies{
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.jakewharton:butterknife:8.4.0'
+    compile 'com.roughike:bottom-bar:2.0.2'
+    compile 'com.squareup.okhttp3:okhttp:3.5.0'
+    compile 'com.google.code.gson:gson:2.4'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'fm.jiecao:jiecaovideoplayer:4.8.3'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+}

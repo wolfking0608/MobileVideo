@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MVPlayer</string>
+    <string name="settings">设置</string>
+    <string name="home">首页</string>
+    <string name="mv">MV</string>
+    <string name="vlist">V榜</string>
+    <string name="mv_list">悦单</string>
+    <string name="clean_cache">清除缓存</string>
+    <string name="push_notification">推送通知</string>
+    <string name="no_wifi_load_images">非Wifi下加载图片</string>
+    <string name="about">关于</string>
+    <string name="load_home_data_failed">加载首页数据失败，请重试</string>
+    <string name="load_home_data_success">加载首页数据成功</string>
+    <string name="load_more_home_data_failed">加载更多数据失败</string>
+    <string name="load_more_home_data_success">加载更多数据成功</string>
+    <string name="no_more_data">没有更多数据</string>
+    <string name="load_yue_dan_failed">加载悦单数据失败</string>
+    <string name="load_yue_dan_success">加载悦单数据成功</string>
+    <string name="load_more_yue_dan_data_failed">加载更多悦单数据失败</string>
+    <string name="load_more_yue_dan_data_success">加载更多悦单数据成功</string>
+    <string name="load_data_success">加载数据成功</string>
+    <string name="load_data_failed">加载数据失败</string>
+    <string name="load_more_data_failed">加载更多数据失败</string>
+    <string name="load_more_data_success">加载更多数据成功</string>
+    <string name="read_storage_permission_deny">没有读磁盘权限</string>
+    <string name="is_last_audio">已经是最后一首歌啦</string>
+    <string name="is_first_audio">已经是第一首歌啦</string>
+    <string name="loading_lyric">玩命加载中&#8230;</string>
+    <string name="lyric_not_found">亲，歌词没找到</string>
+    <string name="heima">黑马程序员是全宇宙最牛逼的程序员</string>
+</resources>
